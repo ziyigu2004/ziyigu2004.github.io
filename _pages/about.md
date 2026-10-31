@@ -28,7 +28,9 @@ latest_posts:
 
 I am a second-year Ph.D. student at Zhejiang University.
 
-My research primarily focuses on diffusion models and generative modeling. My earlier work explored diffusion-based inverse problem solving, particularly in wireless channel estimation. I then shifted my focus to masked diffusion language models, with an emphasis on efficient inference and parallel decoding strategies. Currently, I am exploring continuous diffusion language models, particularly efficient text generation through latent space compression.
+My research primarily focuses on diffusion models and generative modeling. My earlier work explored diffusion-based inverse problem solving, particularly in wireless channel estimation. 
+
+I then shifted my focus to masked diffusion language models, with an emphasis on efficient inference and parallel decoding strategies. Currently, I am exploring **continuous diffusion language models**, particularly efficient text generation through **latent space compression**.
 
 
 <section id="publications"></section>
