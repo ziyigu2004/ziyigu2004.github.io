@@ -37,7 +37,7 @@ latest_posts:
 
 /* Publications 标题与上文之间增加间距 */
 h2#publications {
-    margin-top: 55px;
+    margin-top: 155px;
     margin-bottom: 32px;
 }
 
