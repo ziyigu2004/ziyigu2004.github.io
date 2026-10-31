@@ -1,3 +1,4 @@
+
 ---
 layout: about
 title: about
@@ -7,25 +8,49 @@ subtitle: Ph.D. Student at Zhejiang University
 profile:
   align: right
   image: imag_me.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Zhejiang University</p>
     <p>Hangzhou, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Information and Communication Engineering at Zhejiang University.
+<section id="about"></section>
 
-My research focuses on diffusion models and generative modeling, particularly diffusion language models.
+## About Me
+
+I am a Ph.D. student in Information and Communication
+Engineering at Zhejiang University.
+
+My research focuses on diffusion models and generative
+modeling, particularly diffusion language models and
+efficient inference methods.
+
+## Research Interests
+
+- Efficient Inference for Diffusion Language Models
+- Continuous Diffusion Language Models
+- Diffusion Models for Inverse Problems
+
+<section id="publications"></section>
+
+## Publications
+
+<div class="publications">
+{% bibliography --file papers %}
+</div>
+
+<section id="contact"></section>
+
+## Contact
+
+- Email: [heqiangqi@zju.edu.cn](mailto:heqiangqi@zju.edu.cn)
+- GitHub: [ziyigu2004](https://github.com/ziyigu2004)
