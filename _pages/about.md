@@ -53,3 +53,28 @@ efficient inference methods.
 
 - Email: [heqiangqi@zju.edu.cn](mailto:heqiangqi@zju.edu.cn)
 - GitHub: [ziyigu2004](https://github.com/ziyigu2004)
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const publications = document.querySelector(
+    '.navbar-nav a[href="/publications/"]'
+  );
+
+  if (!publications) return;
+
+  const contactItem = document.createElement("li");
+  contactItem.className = "nav-item";
+
+  const contactLink = document.createElement("a");
+  contactLink.className = "nav-link";
+  contactLink.href = "/#contact";
+  contactLink.textContent = "Contact";
+
+  contactItem.appendChild(contactLink);
+  publications.parentElement.insertAdjacentElement(
+    "afterend", contactItem
+  );
+});
+</script>
+
