@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student at Zhejiang University
+subtitle: 
 
 profile:
   align: right
@@ -26,18 +26,10 @@ latest_posts:
 
 ## About Me
 
-I am a Ph.D. student in Information and Communication
-Engineering at Zhejiang University.
+I am a second-year Ph.D. student at Zhejiang University.
 
-My research focuses on diffusion models and generative
-modeling, particularly diffusion language models and
-efficient inference methods.
+My research primarily focuses on diffusion models and generative modeling. My earlier work explored diffusion-based inverse problem solving, particularly in wireless channel estimation. I then shifted my focus to masked diffusion language models, with an emphasis on efficient inference and parallel decoding strategies. Currently, I am exploring continuous diffusion language models, particularly efficient text generation through latent space compression.
 
-## Research Interests
-
-- Efficient Inference for Diffusion Language Models
-- Continuous Diffusion Language Models
-- Diffusion Models for Inverse Problems
 
 <section id="publications"></section>
 
