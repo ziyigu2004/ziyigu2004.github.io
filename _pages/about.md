@@ -23,6 +23,31 @@ latest_posts:
   enabled: false
 ---
 
+
+<style>
+/* 隐藏顶部自动生成的姓名 */
+.post-header .post-title {
+    display: none;
+}
+
+/* 减少隐藏姓名后留下的空白 */
+.post-header {
+    margin-bottom: 0;
+}
+
+/* Publications 标题与上文之间增加间距 */
+h2#publications {
+    margin-top: 55px;
+    margin-bottom: 32px;
+}
+
+/* Contact 与上方论文内容增加间距 */
+h2#contact {
+    margin-top: 45px;
+}
+</style>
+
+
 <section id="about"></section>
 
 ## About Me
