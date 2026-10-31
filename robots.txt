@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ziyigu2004.github.io/sitemap.xml
