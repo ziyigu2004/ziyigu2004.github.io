@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at Zhejiang University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: imag_me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
