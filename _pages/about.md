@@ -9,6 +9,7 @@ profile:
   image: imag_me.jpg
   image_circular: false
   more_info: >
+    <h2 style="font-size: 28px; font-weight: 700; margin-top: 18px; margin-bottom: 12px;">Heqiang Qi</h2>
     <p>Zhejiang University</p>
     <p>Hangzhou, China</p>
 
