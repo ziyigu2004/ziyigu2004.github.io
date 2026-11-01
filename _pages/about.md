@@ -47,6 +47,12 @@ h2#contact {
 }
 </style>
 
+<style>
+.publications .periodical {
+    display: none;
+}
+</style>
+
 
 <section id="about"></section>
 
